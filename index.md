@@ -15,7 +15,10 @@ Therefore, the phrase **"it does not say so it is 0 cal"** is very popular in Ch
 
 * here is the picture i have used from other website
 
+1. it is the first picture
 ![](https://images7.memedroid.com/images/UPLOADED552/60326854c7f05.jpeg)
+
+2. it is the second picture
 ![](http://cdn0.vox-cdn.com/uploads/chorus_asset/file/1252870/huge-burger.0.jpg)
 
 * here is my R code
